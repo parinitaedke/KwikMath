@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">MathGame</string>
+
+    <string name="instructions">INSTRUCTIONS</string>
+    <string name="start">START</string>
+
+
+    <string name="question">Question</string>
+    <string name="answer_string">Type in your answer</string>
+    <string name="submit">Submit</string>
+</resources>
